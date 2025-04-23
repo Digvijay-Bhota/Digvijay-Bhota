@@ -27,17 +27,12 @@ I'm a **BTech student** with a passion for full-stack web development, currently
 
 ### 🛍️ Product Landing Page
 Created a **responsive product landing page** using HTML and CSS to help businesses showcase products and boost sales.  
-🔗 [View Repository](https://github.com/Digvijay-Bhota/Product-Landing-Page)
+🔗 [View Repository](https://github.com/Digvijay-Bhota/product_landing_page)
 
-### 🖼️ CSS Grid Hover Effect
+### 🖼️ Responsive Grid List
 Designed a **responsive grid list with hover effects** using HTML and CSS. Perfect for image galleries or product layouts.  
-🔗 [View Repository](https://github.com/Digvijay-Bhota/CSS-Grid-Hover-Effect)
-
-### 🌐 MERN Stack Projects *(Coming Soon)*
-- 🔐 Blogging App with Auth  
-- ✅ Task Manager with drag-and-drop  
-- 🛒 E-commerce Backend with Admin Dashboard  
-
+🔗 [View Repository](https://github.com/Digvijay-Bhota/responsive_grid_list)
+ 
 ---
 
 ## 📊 GitHub Stats
@@ -49,7 +44,7 @@ Designed a **responsive grid list with hover effects** using HTML and CSS. Perfe
 
 ## 📫 Let's Connect
 
-- 📧 Email: digvijaybhota123@gmail.com  
+- 📧 Email: digvijaybhota777@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/digvijay-bhota/)  
 - 🌐 [Portfolio](#) *(coming soon!)*
 
