@@ -56,7 +56,7 @@ Developed a **dynamic and responsive expense tracking application** using React.
 - Wrote unit tests using Jest and React Testing Library
 - Designed a modern card-based layout with structured grid forms
 
-🔗 [View Repository](https://github.com/Digvijay-Bhota/product_landing_page)
+🔗 [View Repository](https://github.com/Digvijay-Bhota/expense_tracker)
 
 
 
@@ -72,7 +72,7 @@ Built a **full-stack web application** using React (Vite + TypeScript), Node.js,
 - Managed database schema using PostgreSQL migrations
 - Built responsive UI foundation with Tailwind CSS
 
-🔗 [View Repository](https://github.com/Digvijay-Bhota/responsive_grid_list)
+🔗 [View Repository](https://github.com/Digvijay-Bhota/chanshal-camping-and-trekking)
 
 
 
