@@ -1,54 +1,70 @@
-# 👋 Hi there, I'm Digvijay Bhota
+👋 Hi there, I'm Digvijay Bhota 
 
-I'm a **BTech student** with a passion for full-stack web development, currently diving deep into the **MERN stack** (MongoDB, Express, React, Node.js). I love building sleek, responsive user interfaces and efficient backends.
+I'm a BTech graduate in Information Technology from the University of Information Technology, Shimla. I am a full-stack developer with a passion for building scalable, containerized web applications and refining both frontend and backend expertise.
++4
 
----
+🚀 About Me
+🎓 BTech in Information Technology (2021 – 2025).
 
-## 🚀 About Me
+💻 Full-Stack Programmer with practical experience in React, TypeScript, Node.js, and PostgreSQL.
++2
 
-- 🎓 Pursuing BTech in Computer Science
-- 💻 Tech Enthusiast focused on full-stack web development
-- 🌱 Currently learning advanced React and backend optimizations
-- 🔭 Working on real-world MERN stack projects
-- ⚡ Fun fact: I enjoy turning ideas into interactive web apps
+🌱 Currently focused on containerization with Docker and building robust REST APIs.
++3
 
----
+🔭 Passionate about developing user-focused solutions and high-performance applications.
++1
 
-## 🛠 Tech Stack
+⚡ Fun fact: I enjoy implementing smooth UI animations and tracking web vitals to ensure top-tier performance.
 
-- **Frontend**: HTML5, CSS3, JavaScript, React.js  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
-- **Others**: Git, GitHub, VS Code, Postman
+🛠 Tech Stack
 
----
+Languages: Java, Python, C/C++, JavaScript, TypeScript, HTML/CSS.
++2
 
-## 📂 Featured Projects
 
-### 🛍️ Product Landing Page
-Created a **responsive product landing page** using HTML and CSS to help businesses showcase products and boost sales.  
-🔗 [View Repository](https://github.com/Digvijay-Bhota/product_landing_page)
+Frontend: React (Vite), Tailwind CSS.
++1
 
-### 🖼️ Responsive Grid List
-Designed a **responsive grid list with hover effects** using HTML and CSS. Perfect for image galleries or product layouts.  
-🔗 [View Repository](https://github.com/Digvijay-Bhota/responsive_grid_list)
- 
----
 
-## 📊 GitHub Stats
+Backend: Node.js, Express.js.
++2
 
-![Digvijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Digvijay-Bhota&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Digvijay-Bhota&layout=compact&theme=radical)
 
----
+Database & DevOps: PostgreSQL, Redis, Docker Compose.
++1
 
-## 📫 Let's Connect
 
-- 📧 Email: digvijaybhota777@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/digvijay-bhota/)  
-- 🌐 [Portfolio](#) *(coming soon!)*
+Developer Tools: Git, VS Code, PyCharm, IntelliJ, Eclipse.
 
----
 
-_Thanks for stopping by! Feel free to check out my projects or connect with me._
+Data Science Libraries: pandas, NumPy, Matplotlib.
 
+📂 Featured Projects
+🏕️ Camping and Homestay Platform
+Developed a full-stack, containerized platform using React (TypeScript) and Node.js.
+
+Used Docker Compose to orchestrate frontend, backend, PostgreSQL, and Redis.
+
+Implemented a typed REST API with modular routing and SQL migrations for schema management.
++1
+
+Styled with Tailwind CSS for a responsive foundation.
+
+📉 Expense Tracker Application
+Built a dynamic and responsive tracker using React.js and Node.js.
+
+Integrated reportWebVitals.js to monitor LCP, FID, and CLS for performance optimization.
+
+Wrote unit tests using Jest and React Testing Library to ensure reliability.
+
+Designed a modern UI with light/dark mode toggles and smooth gradient animations.
++1
+
+📊 GitHub Stats
+📫 Let's Connect
+📧 Email: digvijaybhota777@gmail.com 
+
+🔗 LinkedIn: linkedin.com/in/digvijay-bhota/ 
+
+💻 GitHub: github.com/Digvijay-Bhota
