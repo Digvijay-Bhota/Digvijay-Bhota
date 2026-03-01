@@ -46,17 +46,18 @@ I'm a **BTech graduate in Information Technology** with practical experience in 
 
 
 
-### 💰 Expense Tracker Application
+### ⚡ Real-Time React & Supabase Todo Manager
 
-Developed a **dynamic and responsive expense tracking application** using React.js and Node.js.
+This is a **Modern Full-Stack Todo Application** featuring real-time data synchronization and secure user authentication.
 
-- Built modular and maintainable React components
-- Implemented a light/dark mode toggle with smooth gradient animations
-- Integrated `reportWebVitals.js` to monitor LCP, FID, and CLS performance metrics
-- Wrote unit tests using Jest and React Testing Library
-- Designed a modern card-based layout with structured grid forms
+- Uses Supabase Broadcast and Replication to update the task list instantly across all devices without refreshing the page.
+- Features a robust "Auth Gate" that protects user data and ensures private tasks remain accessible only to their owners.
+- Leverages a PostgreSQL backend via Supabase to ensure all todos are saved securely in the cloud rather than just locally.
+- Built with React and Vite for a lightning-fast user interface that handles complex state management smoothly.
+- Includes pre-configured unit tests and setup files to ensure core features like authentication and task logic remain stable.
+- Utilizes environment variable masking to keep sensitive backend API keys protected during development.
 
-🔗 [View Repository](https://github.com/Digvijay-Bhota/expense_tracker)
+🔗 [View Repository](https://github.com/Digvijay-Bhota/todo-app)
 
 
 
@@ -77,21 +78,6 @@ Built a **full-stack web application** using React (Vite + TypeScript), Node.js,
 
 
 ---
-
-
-
-## 📊 GitHub Stats
-
-
-
-![Digvijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Digvijay-Bhota&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Digvijay-Bhota&layout=compact&theme=radical)
-
-
-
----
-
 
 
 ## 📫 Let's Connect
