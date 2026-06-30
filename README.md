@@ -86,7 +86,7 @@ Built a **full-stack web application** using React (Vite + TypeScript), Node.js,
 
 - 📧 Email: digvijaybhota777@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/digvijay-bhota/)
-- 🌐 [Portfolio](#) *(coming soon!)*
+- 🌐 [Portfolio](https://digvijay-dev-portfolio.netlify.app/)
 
 
 
